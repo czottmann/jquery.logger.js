@@ -1,4 +1,4 @@
-### Description
+## Description
 
 A quick and dirty jQuery logger; working with either a div container with the
 ID `jquery-log-console` or the browser's `console` object. The DIV takes
@@ -6,12 +6,17 @@ precedence; if neither DIV nor console exists, the log calls will be silently
 ignored.
 
 
-### Author
+## Disclaimer
 
-Carlo Zottmann, carlo@municode.de, http://municode.de/
+Works for me.
 
 
-### License
+## Author
+
+Carlo Zottmann, carlo@municode.de, http://municode.de/ 
+
+
+## License
 
                DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                        Version 2, December 2004
