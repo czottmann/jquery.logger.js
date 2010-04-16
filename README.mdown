@@ -1,0 +1,28 @@
+### Description
+
+A quick and dirty jQuery logger; working with either a div container with the
+ID `jquery-log-console` or the browser's `console` object. The DIV takes
+precedence; if neither DIV nor console exists, the log calls will be silently
+ignored.
+
+
+### Author
+
+Carlo Zottmann, carlo@municode.de, http://municode.de/
+
+
+### License
+
+               DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                       Version 2, December 2004
+
+    Copyright (C) 2004 Sam Hocevar
+     14 rue de Plaisance, 75014 Paris, France
+    Everyone is permitted to copy and distribute verbatim or modified
+    copies of this license document, and changing it is allowed as long
+    as the name is changed.
+
+               DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+      TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+     0. You just DO WHAT THE FUCK YOU WANT TO.
